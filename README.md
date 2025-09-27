@@ -41,7 +41,7 @@ The system should:
 ## How to Run
 1. Clone this repository or download the `.py` file.  
 2. Open the project in **PyCharm** or any Python IDE.  
-3. Run the file with:
+3. Run the file with: python inventory_system.py
 
 ## Screenshots 
 <img width="755" height="909" alt="Screenshot 2025-09-27 121742" src="https://github.com/user-attachments/assets/917f7c2f-9324-4654-aa87-89952ac3a0f4" />
