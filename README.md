@@ -44,7 +44,8 @@ The system should:
 3. Run the file with: python inventory_system.py
 
 ## Screenshots 
-<img width="755" height="909" alt="Screenshot 2025-09-27 121742" src="https://github.com/user-attachments/assets/917f7c2f-9324-4654-aa87-89952ac3a0f4" />
+<img width="1458" height="804" alt="Screenshot 2025-09-27 121904" src="https://github.com/user-attachments/assets/af96745c-6d3d-4b0a-a7ac-64c4a36744a9" />
+
 
 ## Author
 - Nikita Saharan
